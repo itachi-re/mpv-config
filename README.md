@@ -109,7 +109,7 @@ mpv --version
 ### 2. Clone this repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mpv-config.git
+git clone https://github.com/itachi-re/mpv-config.git
 ```
 
 ### 3. Copy config to the mpv config directory
